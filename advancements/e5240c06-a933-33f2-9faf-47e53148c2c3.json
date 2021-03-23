@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/dead_support": {
+    "criteria": {
+      "has_plank": "2021-03-23 14:18:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2021-03-21 20:51:49 +0000"
@@ -446,6 +452,12 @@
   "create:recipes/create.palettes/fancy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-03-21 20:51:02 +0000"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2021-03-23 14:53:15 +0000"
     },
     "done": true
   },
@@ -798,6 +810,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/dead_door": {
+    "criteria": {
+      "has_planks": "2021-03-23 14:18:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2021-03-20 15:16:08 +0000"
@@ -807,6 +825,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2021-03-20 15:50:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-03-23 14:18:17 +0000"
     },
     "done": true
   },
@@ -834,9 +858,21 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/dead_palisade": {
+    "criteria": {
+      "has_log": "2021-03-23 16:16:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2021-03-20 15:15:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/dead_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-03-23 14:18:17 +0000"
     },
     "done": true
   },
@@ -1008,6 +1044,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/dead_button": {
+    "criteria": {
+      "has_planks": "2021-03-23 14:18:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/overgrown_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-03-21 20:51:02 +0000"
@@ -1131,6 +1173,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2021-03-21 17:55:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_stairs": {
+    "criteria": {
+      "has_planks": "2021-03-23 14:18:17 +0000"
     },
     "done": true
   },
@@ -1314,6 +1362,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/dead_slab": {
+    "criteria": {
+      "has_planks": "2021-03-23 14:18:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-03-20 16:02:24 +0000"
@@ -1419,6 +1473,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2021-03-20 16:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-03-23 14:19:06 +0000"
     },
     "done": true
   },
@@ -2281,6 +2341,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/dead_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-03-23 14:18:17 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_saw": {
+    "criteria": {
+      "0": "2021-03-23 16:20:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_slab": {
     "criteria": {
       "has_prismarine": "2021-03-20 15:20:09 +0000"
@@ -2683,6 +2755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2021-03-23 14:19:06 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2021-03-20 14:15:02 +0000"
@@ -2911,6 +2989,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/dead_planks": {
+    "criteria": {
+      "has_logs": "2021-03-23 16:16:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2021-03-21 16:44:18 +0000"
@@ -3109,6 +3193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-03-23 14:19:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-03-20 16:01:14 +0000"
@@ -3244,6 +3334,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2021-03-21 17:57:21 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/dead_seat": {
+    "criteria": {
+      "has_plank": "2021-03-23 14:18:17 +0000"
     },
     "done": true
   },
@@ -3523,9 +3619,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/dead_fence": {
+    "criteria": {
+      "has_planks": "2021-03-23 14:18:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2021-03-21 17:17:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/white_sail": {
+    "criteria": {
+      "has_item": "2021-03-23 14:56:06 +0000"
     },
     "done": true
   },
@@ -3592,6 +3700,12 @@
   "decorative_blocks:recipes/decorations/lattice": {
     "criteria": {
       "has_stick": "2021-03-20 14:18:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_wood": {
+    "criteria": {
+      "has_log": "2021-03-23 16:16:39 +0000"
     },
     "done": true
   },

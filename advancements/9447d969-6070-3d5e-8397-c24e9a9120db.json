@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2021-03-23 15:45:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/overgrown_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_weathered_limestone": "2021-03-21 21:40:59 +0000"
@@ -155,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2021-03-23 14:13:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2021-03-20 15:18:19 +0000"
@@ -170,6 +182,12 @@
   "decorative_blocks:recipes/decorations/dead_beam": {
     "criteria": {
       "has_stripped_log": "2021-03-22 19:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-03-23 15:45:03 +0000"
     },
     "done": true
   },
@@ -215,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-03-23 15:45:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2021-03-20 16:13:14 +0000"
@@ -224,6 +248,12 @@
   "create:recipes/create.base/crafting/kinetics/sticky_mechanical_piston": {
     "criteria": {
       "has_item": "2021-03-21 17:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-03-23 16:11:57 +0000"
     },
     "done": true
   },
@@ -455,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-03-23 15:45:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-03-21 16:47:17 +0000"
@@ -658,6 +694,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-03-23 15:45:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2021-03-20 15:49:21 +0000"
@@ -805,15 +847,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/stripped_dead_wood": {
-    "criteria": {
-      "has_log": "2021-03-22 19:22:54 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/dead_fence_gate": {
     "criteria": {
       "has_planks": "2021-03-22 19:19:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/stripped_dead_wood": {
+    "criteria": {
+      "has_log": "2021-03-22 19:22:54 +0000"
     },
     "done": true
   },
@@ -1129,6 +1171,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/stressometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2021-03-23 14:13:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/weathered_limestone_bricks_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_weathered_limestone": "2021-03-21 21:40:59 +0000"
@@ -1216,6 +1264,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2021-03-20 15:59:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2021-03-23 15:45:03 +0000"
     },
     "done": true
   },
@@ -1339,6 +1393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2021-03-23 16:11:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_pillar_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2021-03-20 15:21:17 +0000"
@@ -1396,6 +1456,12 @@
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2021-03-19 19:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2021-03-23 15:45:03 +0000"
     },
     "done": true
   },
@@ -1495,6 +1561,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2021-03-21 20:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2021-03-23 15:45:03 +0000"
     },
     "done": true
   },
@@ -1822,6 +1894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2021-03-23 15:45:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2021-03-19 19:30:23 +0000"
@@ -1849,6 +1927,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-03-20 15:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-03-23 15:45:03 +0000"
     },
     "done": true
   },
@@ -2003,6 +2087,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-03-20 15:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2021-03-23 16:11:57 +0000"
     },
     "done": true
   },
@@ -2231,6 +2321,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-03-21 16:47:17 +0000"
+    },
+    "done": true
+  },
+  "create:speedometer": {
+    "criteria": {
+      "0": "2021-03-23 14:14:12 +0000"
     },
     "done": true
   },
@@ -2606,6 +2702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2021-03-23 16:11:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-03-21 16:46:54 +0000"
@@ -2645,6 +2747,12 @@
   "create:root": {
     "criteria": {
       "0": "2021-03-19 19:35:27 +0000"
+    },
+    "done": true
+  },
+  "betteranimalsplus:lamprey_succ": {
+    "criteria": {
+      "lamprey_succ": "2021-03-23 16:06:23 +0000"
     },
     "done": true
   },
@@ -2744,6 +2852,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/smelting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2021-03-23 16:08:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2021-03-21 16:46:54 +0000"
@@ -2783,6 +2897,12 @@
   "create:recipes/create.base/crafting/kinetics/goggles": {
     "criteria": {
       "has_item": "2021-03-21 17:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-03-23 15:45:03 +0000"
     },
     "done": true
   },
@@ -2903,6 +3023,12 @@
   "ironchest:recipes/ironchest/chests/iron_gold_chest": {
     "criteria": {
       "has_gold_ingot": "2021-03-21 18:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2021-03-23 15:45:03 +0000"
     },
     "done": true
   },
@@ -3260,6 +3386,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/stone_pillar": {
+    "criteria": {
+      "has_stone": "2021-03-23 15:45:03 +0000"
+    },
+    "done": true
+  },
   "dungeons_plus:adventure/find_tower": {
     "criteria": {
       "structure": "2021-03-19 19:29:02 +0000"
@@ -3317,6 +3449,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2021-03-21 17:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-03-23 15:45:03 +0000"
     },
     "done": true
   },
@@ -3392,6 +3530,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/blasting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2021-03-23 16:08:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_cobblestone_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2021-03-20 15:21:17 +0000"
@@ -3449,6 +3593,12 @@
   "create:recipes/create.base/crafting/kinetics/white_sail": {
     "criteria": {
       "has_item": "2021-03-22 18:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2021-03-23 15:45:03 +0000"
     },
     "done": true
   },
