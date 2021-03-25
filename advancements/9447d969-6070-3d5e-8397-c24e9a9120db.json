@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2021-03-25 20:44:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_weathered_limestone": "2021-03-21 21:40:59 +0000"
@@ -320,6 +326,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2021-03-21 21:45:58 +0000"
+    },
+    "done": true
+  },
+  "create:compact": {
+    "criteria": {
+      "0": "2021-03-25 20:28:19 +0000"
     },
     "done": true
   },
@@ -794,7 +806,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2021-03-25 20:45:02 +0000",
       "minecraft:skeleton": "2021-03-20 16:12:12 +0000",
+      "minecraft:magma_cube": "2021-03-25 20:52:39 +0000",
+      "minecraft:piglin": "2021-03-25 20:52:13 +0000",
       "minecraft:silverfish": "2021-03-22 17:54:38 +0000",
       "minecraft:zombie": "2021-03-20 15:19:05 +0000",
       "minecraft:zombie_villager": "2021-03-21 21:11:41 +0000"
@@ -912,6 +927,12 @@
   "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2021-03-20 16:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2021-03-25 20:46:02 +0000"
     },
     "done": true
   },
@@ -1548,6 +1569,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2021-03-20 16:15:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/copper_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2021-03-25 20:26:55 +0000"
     },
     "done": true
   },
@@ -3825,6 +3852,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2021-03-19 19:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-03-25 20:45:02 +0000"
     },
     "done": true
   },
