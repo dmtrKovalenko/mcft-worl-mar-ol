@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mysterious_cuckoo_clock": {
+    "criteria": {
+      "has_item": "2021-03-25 08:28:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2021-03-20 16:16:43 +0000"
@@ -161,6 +167,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2021-03-25 09:31:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2021-03-20 15:16:40 +0000"
@@ -218,6 +230,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting": {
     "criteria": {
       "has_gold_ore": "2021-03-20 16:15:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 09:44:41 +0000"
     },
     "done": true
   },
@@ -690,6 +708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 09:44:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2021-03-20 15:59:13 +0000"
@@ -705,6 +729,12 @@
   "repurposed_structures:mineshafts": {
     "criteria": {
       "always": "2021-03-19 19:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2021-03-25 09:11:09 +0000"
     },
     "done": true
   },
@@ -747,6 +777,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-03-21 21:19:10 +0000"
+    },
+    "done": true
+  },
+  "create:fan": {
+    "criteria": {
+      "0": "2021-03-25 09:38:42 +0000"
     },
     "done": true
   },
@@ -834,6 +870,12 @@
   "create:recipes/create.base/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2021-03-21 17:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 09:44:41 +0000"
     },
     "done": true
   },
@@ -960,6 +1002,12 @@
   "create:recipes/create.base/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2021-03-21 16:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 09:44:41 +0000"
     },
     "done": true
   },
@@ -1209,6 +1257,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2021-03-25 09:29:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-03-20 15:20:33 +0000"
@@ -1224,6 +1278,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2021-03-21 18:12:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/smelting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2021-03-25 09:42:46 +0000"
     },
     "done": true
   },
@@ -1344,6 +1404,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-03-21 21:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 09:44:41 +0000"
     },
     "done": true
   },
@@ -1506,6 +1572,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2021-03-20 15:19:05 +0000"
+    },
+    "done": true
+  },
+  "create:millstone": {
+    "criteria": {
+      "0": "2021-03-25 09:26:29 +0000"
     },
     "done": true
   },
@@ -1778,6 +1850,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2021-03-25 08:14:34 +0000",
       "minecraft:nether_wastes": "2021-03-24 19:49:55 +0000"
     },
     "done": false
@@ -2100,6 +2173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 09:44:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2021-03-21 16:46:54 +0000"
@@ -2127,6 +2206,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2021-03-21 21:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 09:44:41 +0000"
     },
     "done": true
   },
@@ -2266,6 +2351,12 @@
       "has_iron_ingot": "2021-03-21 17:29:13 +0000"
     },
     "done": true
+  },
+  "create:reinforced": {
+    "criteria": {
+      "0": "2021-03-25 09:54:12 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
@@ -2546,6 +2637,12 @@
   "create:recipes/create.base/crafting/kinetics/depot": {
     "criteria": {
       "has_item": "2021-03-21 17:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 09:44:41 +0000"
     },
     "done": true
   },
@@ -2921,6 +3018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 09:44:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_weathered_limestone": "2021-03-21 21:40:59 +0000"
@@ -2942,6 +3045,12 @@
   "minecraft:recipes/decorations/slime_block": {
     "criteria": {
       "has_slime_ball": "2021-03-22 18:01:54 +0000"
+    },
+    "done": true
+  },
+  "create:cuckoo": {
+    "criteria": {
+      "0": "2021-03-25 08:36:30 +0000"
     },
     "done": true
   },
@@ -2984,6 +3093,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2021-03-21 21:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 09:44:41 +0000"
     },
     "done": true
   },
@@ -3431,6 +3546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 09:44:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "shrubland": "2021-03-19 19:28:24 +0000"
@@ -3473,9 +3594,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2021-03-25 09:11:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2021-03-22 18:55:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/blasting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2021-03-25 09:42:46 +0000"
     },
     "done": true
   },
@@ -3560,6 +3693,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2021-03-20 16:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 09:44:41 +0000"
     },
     "done": true
   },
@@ -3767,6 +3906,12 @@
     },
     "done": true
   },
+  "create:fan_water": {
+    "criteria": {
+      "0": "2021-03-25 09:39:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2021-03-21 16:46:54 +0000"
@@ -3833,6 +3978,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2021-03-25 07:56:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2021-03-21 18:02:01 +0000"
@@ -3881,9 +4032,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2021-03-25 09:29:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2021-03-21 21:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 09:44:41 +0000"
     },
     "done": true
   },
@@ -3908,6 +4071,12 @@
   "create:recipes/create.base/crafting/kinetics/blue_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2021-03-24 19:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 09:44:41 +0000"
     },
     "done": true
   },
@@ -3938,6 +4107,12 @@
   "create:recipes/create.base/crafting/kinetics/cyan_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2021-03-24 19:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2021-03-25 09:44:41 +0000"
     },
     "done": true
   },
