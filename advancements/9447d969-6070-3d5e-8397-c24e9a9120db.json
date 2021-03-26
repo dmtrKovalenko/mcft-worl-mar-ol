@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2021-03-26 11:06:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2021-03-21 18:02:01 +0000"
@@ -131,9 +137,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2021-03-26 10:56:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2021-03-21 17:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2021-03-26 11:19:37 +0000"
     },
     "done": true
   },
@@ -194,6 +212,12 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2021-03-23 14:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2021-03-26 11:06:36 +0000"
     },
     "done": true
   },
@@ -371,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2021-03-26 11:06:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2021-03-21 17:29:13 +0000"
@@ -417,6 +447,12 @@
   "create:recipes/create.base/crafting/logistics/content_observer": {
     "criteria": {
       "has_item": "2021-03-22 18:47:14 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2021-03-26 10:48:02 +0000"
     },
     "done": true
   },
@@ -833,6 +869,7 @@
     "criteria": {
       "minecraft:pillager": "2021-03-25 20:45:02 +0000",
       "minecraft:skeleton": "2021-03-20 16:12:12 +0000",
+      "minecraft:hoglin": "2021-03-26 11:19:50 +0000",
       "minecraft:magma_cube": "2021-03-25 20:52:39 +0000",
       "minecraft:wither_skeleton": "2021-03-26 10:08:12 +0000",
       "minecraft:piglin": "2021-03-25 20:52:13 +0000",
@@ -962,6 +999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2021-03-26 10:56:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2021-03-25 20:46:02 +0000"
@@ -1007,6 +1050,12 @@
   "biomesoplenty:recipes/building_blocks/stripped_dead_wood": {
     "criteria": {
       "has_log": "2021-03-22 19:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2021-03-26 10:56:32 +0000"
     },
     "done": true
   },
@@ -1214,6 +1263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2021-03-26 10:56:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2021-03-20 15:59:13 +0000"
@@ -1238,6 +1293,18 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/crimson_palisade": {
+    "criteria": {
+      "has_log": "2021-03-26 11:19:37 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:outpost/outpost_nether_brick": {
+    "criteria": {
+      "in_outpost_nether_brick": "2021-03-26 10:55:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2021-03-20 15:16:00 +0000"
@@ -1253,6 +1320,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2021-03-21 20:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2021-03-26 11:06:36 +0000"
     },
     "done": true
   },
@@ -1586,6 +1659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2021-03-26 10:56:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-03-20 15:20:33 +0000"
@@ -1601,6 +1680,12 @@
   "create:recipes/create.palettes/spruce_window": {
     "criteria": {
       "has_ingredient": "2021-03-22 18:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2021-03-26 10:56:32 +0000"
     },
     "done": true
   },
@@ -1923,7 +2008,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2021-03-25 08:14:34 +0000",
       "minecraft:nether_wastes": "2021-03-24 19:49:55 +0000",
-      "minecraft:soul_sand_valley": "2021-03-26 10:17:59 +0000"
+      "minecraft:soul_sand_valley": "2021-03-26 10:17:59 +0000",
+      "minecraft:warped_forest": "2021-03-26 11:20:30 +0000"
     },
     "done": false
   },
@@ -2221,6 +2307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2021-03-26 10:56:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-03-21 16:47:17 +0000"
@@ -2435,6 +2527,12 @@
       "0": "2021-03-25 09:54:12 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2021-03-26 11:06:36 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
@@ -2778,6 +2876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2021-03-26 11:06:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2021-03-21 16:46:54 +0000"
@@ -2865,6 +2969,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-03-20 15:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2021-03-26 10:48:02 +0000"
     },
     "done": true
   },
@@ -3318,6 +3428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2021-03-26 10:56:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2021-03-20 15:49:21 +0000"
@@ -3363,6 +3479,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2021-03-20 15:23:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2021-03-26 11:06:36 +0000"
     },
     "done": true
   },
@@ -3588,6 +3710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2021-03-26 11:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2021-03-21 18:12:30 +0000"
@@ -3726,6 +3854,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-03-26 10:48:02 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/iron_to_gold_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2021-03-21 17:29:13 +0000"
@@ -3858,6 +3992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2021-03-26 10:56:32 +0000"
+    },
+    "done": true
+  },
   "dungeons_plus:adventure/find_tower": {
     "criteria": {
       "structure": "2021-03-19 19:29:02 +0000"
@@ -3873,6 +4013,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2021-03-20 15:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2021-03-26 11:06:36 +0000"
     },
     "done": true
   },
@@ -4011,6 +4157,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-03-21 17:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2021-03-26 10:56:32 +0000"
     },
     "done": true
   },
