@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_blackstone_bricks": "2021-03-26 10:22:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/gearshift": {
     "criteria": {
       "has_item": "2021-03-21 17:31:50 +0000"
@@ -152,6 +158,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2021-03-20 16:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-03-26 10:22:37 +0000"
     },
     "done": true
   },
@@ -266,6 +278,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2021-03-20 16:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-03-26 10:22:37 +0000"
     },
     "done": true
   },
@@ -599,6 +617,7 @@
       "shrubland": "2021-03-19 19:28:24 +0000",
       "scrubland": "2021-03-19 19:34:35 +0000",
       "wooded_scrubland": "2021-03-19 19:35:01 +0000",
+      "withered_abyss": "2021-03-26 10:07:59 +0000",
       "silkglade": "2021-03-22 18:59:41 +0000",
       "shrubland_hills": "2021-03-20 15:58:38 +0000",
       "gravel_beach": "2021-03-21 20:18:13 +0000",
@@ -786,6 +805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-03-26 10:22:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-03-21 21:19:10 +0000"
@@ -809,6 +834,7 @@
       "minecraft:pillager": "2021-03-25 20:45:02 +0000",
       "minecraft:skeleton": "2021-03-20 16:12:12 +0000",
       "minecraft:magma_cube": "2021-03-25 20:52:39 +0000",
+      "minecraft:wither_skeleton": "2021-03-26 10:08:12 +0000",
       "minecraft:piglin": "2021-03-25 20:52:13 +0000",
       "minecraft:silverfish": "2021-03-22 17:54:38 +0000",
       "minecraft:zombie": "2021-03-20 15:19:05 +0000",
@@ -819,6 +845,12 @@
   "create:recipes/create.base/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2021-03-21 17:31:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/smelting/scoria": {
+    "criteria": {
+      "has_item": "2021-03-26 10:26:25 +0000"
     },
     "done": true
   },
@@ -1221,6 +1253,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2021-03-21 20:47:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-03-26 10:22:37 +0000"
     },
     "done": true
   },
@@ -1773,6 +1811,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2021-03-26 10:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-03-20 15:16:00 +0000"
@@ -1878,7 +1922,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2021-03-25 08:14:34 +0000",
-      "minecraft:nether_wastes": "2021-03-24 19:49:55 +0000"
+      "minecraft:nether_wastes": "2021-03-24 19:49:55 +0000",
+      "minecraft:soul_sand_valley": "2021-03-26 10:17:59 +0000"
     },
     "done": false
   },
@@ -1987,6 +2032,12 @@
   "create:recipes/create.base/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2021-03-24 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2021-03-26 10:18:13 +0000"
     },
     "done": true
   },
@@ -3129,6 +3180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-03-26 10:22:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-03-19 19:30:23 +0000"
@@ -4110,6 +4167,12 @@
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-03-25 09:44:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-03-26 10:22:37 +0000"
     },
     "done": true
   },
