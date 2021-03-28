@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/smelting/scoria": {
+    "criteria": {
+      "has_item": "2021-03-28 13:07:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2021-03-20 15:27:59 +0000"
@@ -872,6 +878,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-03-25 09:39:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/andesite_bricks_wall_from_andesite_bricks_stonecutting": {
+    "criteria": {
+      "has_andesite_bricks": "2021-03-28 12:46:46 +0000"
     },
     "done": true
   },
@@ -1405,6 +1417,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2021-03-28 13:06:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2021-03-20 14:18:13 +0000"
@@ -1877,6 +1895,12 @@
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2021-03-20 14:32:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/andesite_bricks_slab_from_andesite_bricks_stonecutting": {
+    "criteria": {
+      "has_andesite_bricks": "2021-03-28 12:46:46 +0000"
     },
     "done": true
   },
@@ -3071,6 +3095,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/andesite_bricks_wall": {
+    "criteria": {
+      "has_andesite_bricks": "2021-03-28 12:46:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/overgrown_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-03-21 20:51:02 +0000"
@@ -3248,6 +3278,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2021-03-25 08:08:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/andesite_bricks_stairs_from_andesite_bricks_stonecutting": {
+    "criteria": {
+      "has_andesite_bricks": "2021-03-28 12:46:46 +0000"
     },
     "done": true
   },
@@ -3585,6 +3621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2021-03-28 13:07:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/smelting/gabbro": {
     "criteria": {
       "has_item": "2021-03-21 16:29:20 +0000"
@@ -3867,6 +3909,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/andesite_bricks_slab": {
+    "criteria": {
+      "has_andesite_bricks": "2021-03-28 12:46:46 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/dead_trapdoor": {
     "criteria": {
       "has_planks": "2021-03-23 14:18:17 +0000"
@@ -3912,6 +3960,12 @@
   "create:recipes/create.base/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2021-03-21 20:51:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/andesite_bricks_stairs": {
+    "criteria": {
+      "has_andesite_bricks": "2021-03-28 12:46:46 +0000"
     },
     "done": true
   },
@@ -4368,6 +4422,12 @@
   "repurposed_structures:witch_huts/witch_huts_taiga": {
     "criteria": {
       "in_witch_hut_taiga": "2021-03-25 09:10:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2021-03-28 13:06:31 +0000"
     },
     "done": true
   },
