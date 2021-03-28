@@ -3771,6 +3771,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2021-03-28 13:49:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2021-03-21 21:14:19 +0000"
@@ -3954,6 +3960,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2021-03-21 17:51:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2021-03-28 13:51:04 +0000"
     },
     "done": true
   },
