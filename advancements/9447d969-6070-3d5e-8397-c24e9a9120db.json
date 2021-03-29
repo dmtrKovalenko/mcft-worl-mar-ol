@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/chiseled_scoria_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2021-03-29 19:26:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2021-03-21 17:29:13 +0000"
@@ -429,6 +435,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2021-03-26 10:22:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/scoria_pillar": {
+    "criteria": {
+      "has_ingredient": "2021-03-29 19:26:57 +0000"
     },
     "done": true
   },
@@ -721,6 +733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2021-03-29 18:43:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/adjustable_repeater": {
     "criteria": {
       "has_item": "2021-03-21 18:02:01 +0000"
@@ -766,6 +784,12 @@
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2021-03-21 16:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2021-03-29 18:43:44 +0000"
     },
     "done": true
   },
@@ -853,6 +877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2021-03-29 18:43:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2021-03-21 17:29:13 +0000"
@@ -862,6 +892,12 @@
   "create:recipes/create.base/crafting/kinetics/wrench": {
     "criteria": {
       "has_item": "2021-03-21 17:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2021-03-29 18:43:44 +0000"
     },
     "done": true
   },
@@ -1150,6 +1186,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/palettes/dark_scoria": {
+    "criteria": {
+      "has_item": "2021-03-29 19:26:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-03-20 15:16:00 +0000"
@@ -1339,6 +1381,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2021-03-21 21:19:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/fancy_scoria_bricks_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2021-03-29 19:26:57 +0000"
     },
     "done": true
   },
@@ -1717,6 +1765,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-03-21 16:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2021-03-29 18:43:44 +0000"
     },
     "done": true
   },
@@ -2200,6 +2254,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2021-03-29 18:43:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2021-03-21 17:31:50 +0000"
@@ -2215,6 +2275,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2021-03-20 15:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2021-03-29 18:43:44 +0000"
     },
     "done": true
   },
@@ -2401,6 +2467,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2021-03-20 15:59:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2021-03-29 18:43:44 +0000"
     },
     "done": true
   },
@@ -2698,6 +2770,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_scoria_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2021-03-29 19:26:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2021-03-21 17:29:13 +0000"
@@ -2803,6 +2881,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2021-03-20 15:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2021-03-29 18:43:44 +0000"
     },
     "done": true
   },
@@ -3103,6 +3187,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-03-29 17:46:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2021-03-21 18:02:01 +0000"
@@ -3205,6 +3295,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2021-03-29 18:43:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2021-03-21 17:29:13 +0000"
@@ -3244,6 +3340,12 @@
   "repurposed_structures:temple/temple_nether_wasteland": {
     "criteria": {
       "in_temple_nether_wasteland": "2021-03-28 14:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2021-03-29 18:43:44 +0000"
     },
     "done": true
   },
@@ -3313,6 +3415,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/mossy_scoria_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2021-03-29 19:26:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/overgrown_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-03-21 17:15:36 +0000"
@@ -3334,6 +3442,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2021-03-21 17:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2021-03-29 18:43:44 +0000"
     },
     "done": true
   },
@@ -3589,6 +3703,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/scoria_bricks_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2021-03-29 19:26:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2021-03-21 17:29:13 +0000"
@@ -3773,6 +3893,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_scoria_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2021-03-29 19:26:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2021-03-21 21:26:36 +0000"
@@ -3794,6 +3920,12 @@
   "decorative_blocks:recipes/decorations/soul_brazier": {
     "criteria": {
       "has_ingot": "2021-03-20 15:28:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_scoria": {
+    "criteria": {
+      "has_scoria": "2021-03-29 19:26:57 +0000"
     },
     "done": true
   },
@@ -3890,6 +4022,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-03-21 17:15:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/paved_scoria_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2021-03-29 19:26:57 +0000"
     },
     "done": true
   },
@@ -4078,6 +4216,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/scoria_pillar_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2021-03-29 19:26:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2021-03-20 16:17:40 +0000"
@@ -4093,6 +4237,12 @@
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-03-28 19:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2021-03-29 18:43:44 +0000"
     },
     "done": true
   },
@@ -4582,6 +4732,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/scoria_cobblestone_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2021-03-29 19:26:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2021-03-21 16:46:54 +0000"
@@ -4675,6 +4831,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_the_recipe": "2021-03-22 18:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2021-03-29 18:43:44 +0000"
     },
     "done": true
   },
@@ -4846,6 +5008,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2021-03-29 18:43:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2021-03-20 15:48:04 +0000"
@@ -4867,6 +5035,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2021-03-21 17:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2021-03-29 18:43:44 +0000"
     },
     "done": true
   },
@@ -5101,6 +5275,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bonemeal": "2021-03-21 21:32:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/overgrown_scoria_from_scoria_stonecutting": {
+    "criteria": {
+      "has_scoria": "2021-03-29 19:26:57 +0000"
     },
     "done": true
   },
