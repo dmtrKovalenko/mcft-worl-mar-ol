@@ -3130,6 +3130,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2021-03-30 19:02:43 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/chain": {
     "criteria": {
       "has_ingot": "2021-03-20 15:15:58 +0000"
@@ -3227,6 +3233,7 @@
       "minecraft:witch": "2021-03-25 09:11:04 +0000",
       "minecraft:wither_skeleton": "2021-03-26 19:53:56 +0000",
       "minecraft:husk": "2021-03-25 08:25:15 +0000",
+      "minecraft:cave_spider": "2021-03-30 19:08:14 +0000",
       "minecraft:piglin": "2021-03-25 21:05:27 +0000",
       "minecraft:silverfish": "2021-03-22 17:58:38 +0000",
       "minecraft:enderman": "2021-03-25 20:15:12 +0000",
@@ -4954,6 +4961,12 @@
   "dungeons_plus:adventure/find_bigger_dungeon": {
     "criteria": {
       "structure": "2021-03-29 18:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2021-03-30 18:46:44 +0000"
     },
     "done": true
   },
