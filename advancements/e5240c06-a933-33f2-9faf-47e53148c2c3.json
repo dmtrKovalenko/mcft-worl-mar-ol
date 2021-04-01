@@ -2505,6 +2505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2021-04-01 18:56:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2021-03-21 16:44:18 +0000"
@@ -2799,6 +2805,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2021-04-01 12:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2021-03-20 14:33:05 +0000"
@@ -2943,6 +2955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2021-04-01 12:49:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2021-03-20 14:26:57 +0000"
@@ -2964,6 +2982,12 @@
   "create:recipes/create.palettes/paved_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-03-21 20:51:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/transportation/crafting/kinetics/minecart_from_contraption_cart": {
+    "criteria": {
+      "has_item": "2021-04-01 13:09:20 +0000"
     },
     "done": true
   },
@@ -3218,6 +3242,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-03-21 21:30:30 +0000"
+    },
+    "done": true
+  },
+  "create:fan": {
+    "criteria": {
+      "0": "2021-04-01 12:34:42 +0000"
     },
     "done": true
   },
@@ -3548,6 +3578,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2021-03-20 14:17:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/transportation/crafting/kinetics/furnace_minecart_from_contraption_cart": {
+    "criteria": {
+      "has_item": "2021-04-01 13:09:20 +0000"
     },
     "done": true
   },
@@ -4107,6 +4143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2021-04-01 12:57:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2021-03-21 17:55:52 +0000"
@@ -4224,6 +4266,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-03-21 16:29:20 +0000"
+    },
+    "done": true
+  },
+  "create:overstressed": {
+    "criteria": {
+      "0": "2021-04-01 13:29:24 +0000"
     },
     "done": true
   },
@@ -4428,6 +4476,12 @@
   "create:recipes/create.palettes/andesite_bricks_stairs": {
     "criteria": {
       "has_andesite_bricks": "2021-03-28 12:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2021-04-01 12:49:07 +0000"
     },
     "done": true
   },
