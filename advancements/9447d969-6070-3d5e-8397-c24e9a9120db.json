@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2021-04-02 18:46:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-03-23 15:45:03 +0000"
@@ -366,6 +372,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2021-04-02 18:53:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2021-03-21 20:18:26 +0000"
@@ -381,6 +393,12 @@
   "create:recipes/misc/smelting/gold_ingot_from_crushed": {
     "criteria": {
       "has_item": "2021-03-26 18:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2021-04-02 19:56:55 +0000"
     },
     "done": true
   },
@@ -519,6 +537,12 @@
   "decorative_blocks:recipes/decorations/dead_palisade": {
     "criteria": {
       "has_log": "2021-03-22 18:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_the_recipe": "2021-04-02 19:56:47 +0000"
     },
     "done": true
   },
@@ -1261,6 +1285,12 @@
   "create:recipes/create.palettes/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2021-03-28 19:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2021-04-02 19:40:33 +0000"
     },
     "done": true
   },
@@ -3332,6 +3362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2021-04-02 19:56:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-03-20 16:09:36 +0000"
@@ -3461,6 +3497,12 @@
   "create:recipes/create.palettes/mossy_scoria_from_scoria_stonecutting": {
     "criteria": {
       "has_scoria": "2021-03-29 19:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2021-04-02 19:56:55 +0000"
     },
     "done": true
   },
@@ -4209,12 +4251,14 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2021-03-21 17:52:28 +0000",
+      "cooked_mutton": "2021-04-02 18:45:10 +0000",
       "sweet_berries": "2021-03-21 21:14:55 +0000",
       "cooked_beef": "2021-03-21 16:17:48 +0000",
       "baked_potato": "2021-03-22 18:14:22 +0000",
       "beetroot_soup": "2021-03-21 21:22:41 +0000",
       "apple": "2021-03-20 16:14:08 +0000",
       "potato": "2021-03-24 18:54:41 +0000",
+      "mutton": "2021-04-02 19:45:37 +0000",
       "bread": "2021-03-22 18:42:04 +0000",
       "golden_apple": "2021-03-22 18:01:28 +0000",
       "rotten_flesh": "2021-03-21 16:13:53 +0000",
@@ -4293,6 +4337,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-03-29 18:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2021-04-02 19:56:55 +0000"
+    },
+    "done": true
+  },
+  "create:fan_lava": {
+    "criteria": {
+      "0": "2021-04-02 18:54:44 +0000"
     },
     "done": true
   },
@@ -4710,6 +4766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2021-04-02 19:56:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2021-03-20 15:49:21 +0000"
@@ -4776,6 +4838,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2021-04-02 19:16:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2021-03-28 16:05:26 +0000"
@@ -4815,6 +4883,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-03-21 17:15:36 +0000"
+    },
+    "done": true
+  },
+  "create:crafter": {
+    "criteria": {
+      "0": "2021-04-02 19:17:50 +0000"
     },
     "done": true
   },
