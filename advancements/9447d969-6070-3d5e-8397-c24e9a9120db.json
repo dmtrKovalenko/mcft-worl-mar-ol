@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "repurposed_structures:mansions/mansion_taiga": {
+    "criteria": {
+      "in_mansion_taiga": "2021-04-03 18:53:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-03-25 09:44:41 +0000"
@@ -1063,6 +1069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2021-04-03 18:32:44 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/vanilla_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2021-03-21 17:29:13 +0000"
@@ -1954,6 +1966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-04-03 18:32:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-03-21 16:47:17 +0000"
@@ -2458,6 +2476,12 @@
     },
     "done": true
   },
+  "repurposed_structures:outpost/outpost_taiga": {
+    "criteria": {
+      "in_outpost_taiga": "2021-04-03 18:50:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2021-03-22 18:34:49 +0000"
@@ -2944,6 +2968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2021-04-03 18:56:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/gold_ingot_from_crushed": {
     "criteria": {
       "has_item": "2021-03-26 18:49:20 +0000"
@@ -3136,7 +3166,9 @@
       "scrubland": "2021-03-19 19:34:35 +0000",
       "wooded_scrubland": "2021-03-19 19:35:01 +0000",
       "withered_abyss": "2021-03-26 10:07:59 +0000",
+      "coniferous_forest": "2021-04-03 18:47:36 +0000",
       "silkglade": "2021-03-22 18:59:41 +0000",
+      "coniferous_lakes": "2021-04-03 18:46:34 +0000",
       "shrubland_hills": "2021-03-20 15:58:38 +0000",
       "gravel_beach": "2021-03-21 20:18:13 +0000",
       "undergrowth": "2021-03-24 20:54:03 +0000"
@@ -3287,10 +3319,12 @@
       "minecraft:blaze": "2021-03-28 14:44:12 +0000",
       "minecraft:skeleton": "2021-03-20 16:12:12 +0000",
       "minecraft:hoglin": "2021-03-26 11:19:50 +0000",
+      "minecraft:vindicator": "2021-04-03 18:54:17 +0000",
       "minecraft:magma_cube": "2021-03-25 20:52:39 +0000",
       "minecraft:spider": "2021-03-26 19:30:32 +0000",
       "minecraft:creeper": "2021-03-26 20:25:28 +0000",
       "minecraft:wither": "2021-03-28 13:51:04 +0000",
+      "minecraft:evoker": "2021-04-03 18:53:50 +0000",
       "minecraft:phantom": "2021-04-03 16:22:46 +0000",
       "minecraft:zombified_piglin": "2021-03-28 14:44:15 +0000",
       "minecraft:wither_skeleton": "2021-03-26 10:08:12 +0000",
@@ -3298,6 +3332,7 @@
       "minecraft:piglin": "2021-03-25 20:52:13 +0000",
       "minecraft:silverfish": "2021-03-22 17:54:38 +0000",
       "minecraft:stray": "2021-03-26 19:48:02 +0000",
+      "minecraft:vex": "2021-04-03 19:03:43 +0000",
       "minecraft:zombie": "2021-03-20 15:19:05 +0000",
       "minecraft:zombie_villager": "2021-03-21 21:11:41 +0000"
     },
@@ -3312,6 +3347,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2021-04-03 16:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2021-04-03 18:32:44 +0000"
     },
     "done": true
   },
@@ -3939,6 +3980,7 @@
       "minecraft:birch_forest": "2021-03-19 19:30:28 +0000",
       "minecraft:beach": "2021-03-20 16:05:52 +0000",
       "minecraft:river": "2021-03-19 19:30:24 +0000",
+      "minecraft:lukewarm_ocean": "2021-04-03 19:26:02 +0000",
       "minecraft:birch_forest_hills": "2021-03-20 16:03:38 +0000"
     },
     "done": false
@@ -3952,6 +3994,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2021-03-20 16:17:40 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:stronghold/stronghold_stonebricks": {
+    "criteria": {
+      "in_stronghold_stonebrick": "2021-04-03 19:33:00 +0000"
     },
     "done": true
   },
@@ -4126,6 +4174,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2021-03-20 15:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2021-04-03 18:32:44 +0000"
     },
     "done": true
   },
@@ -4728,6 +4782,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-03-21 16:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-04-03 18:32:49 +0000"
     },
     "done": true
   },
