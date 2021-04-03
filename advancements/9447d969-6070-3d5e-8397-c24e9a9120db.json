@@ -402,6 +402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2021-04-03 16:19:37 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/copper_iron_chest": {
     "criteria": {
       "has_item": "2021-03-21 17:29:13 +0000"
@@ -435,6 +441,12 @@
   "create:recipes/create.base/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2021-03-21 16:46:54 +0000"
+    },
+    "done": true
+  },
+  "create:integrated_circuit": {
+    "criteria": {
+      "0": "2021-04-03 16:18:29 +0000"
     },
     "done": true
   },
@@ -537,6 +549,12 @@
   "decorative_blocks:recipes/decorations/dead_palisade": {
     "criteria": {
       "has_log": "2021-03-22 18:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2021-04-03 16:19:37 +0000"
     },
     "done": true
   },
@@ -751,6 +769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2021-04-03 16:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2021-03-28 14:47:04 +0000"
@@ -874,6 +898,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2021-03-21 17:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2021-04-03 16:19:37 +0000"
     },
     "done": true
   },
@@ -1105,6 +1135,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2021-04-03 16:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2021-03-28 19:11:38 +0000"
@@ -1138,6 +1174,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2021-03-21 20:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-04-03 16:19:37 +0000"
     },
     "done": true
   },
@@ -1333,6 +1375,12 @@
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2021-03-19 19:30:23 +0000"
+    },
+    "done": true
+  },
+  "create:extendo_grip": {
+    "criteria": {
+      "0": "2021-04-03 16:10:47 +0000"
     },
     "done": true
   },
@@ -2137,6 +2185,12 @@
   "create:recipes/create.base/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2021-03-21 17:48:09 +0000"
+    },
+    "done": true
+  },
+  "create:integrated_circuit_eob": {
+    "criteria": {
+      "0": "2021-04-03 16:18:29 +0000"
     },
     "done": true
   },
@@ -3237,6 +3291,7 @@
       "minecraft:spider": "2021-03-26 19:30:32 +0000",
       "minecraft:creeper": "2021-03-26 20:25:28 +0000",
       "minecraft:wither": "2021-03-28 13:51:04 +0000",
+      "minecraft:phantom": "2021-04-03 16:22:46 +0000",
       "minecraft:zombified_piglin": "2021-03-28 14:44:15 +0000",
       "minecraft:wither_skeleton": "2021-03-26 10:08:12 +0000",
       "minecraft:cave_spider": "2021-03-30 19:23:54 +0000",
@@ -3251,6 +3306,12 @@
   "create:recipes/create.base/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2021-03-21 17:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-04-03 16:19:37 +0000"
     },
     "done": true
   },
@@ -3365,6 +3426,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2021-04-02 19:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-04-03 16:19:37 +0000"
     },
     "done": true
   },
@@ -3671,6 +3738,12 @@
   "create:recipes/create.palettes/weathered_limestone_bricks_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_weathered_limestone": "2021-03-21 21:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-04-03 16:19:37 +0000"
     },
     "done": true
   },
@@ -4080,6 +4153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2021-04-03 16:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-03-20 15:16:00 +0000"
@@ -4221,6 +4300,12 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2021-03-28 13:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-04-03 16:19:37 +0000"
     },
     "done": true
   },
