@@ -468,6 +468,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2021-04-04 12:34:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2021-03-26 10:22:37 +0000"
@@ -1807,6 +1813,12 @@
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2021-03-21 16:46:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/copper_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2021-04-04 12:51:44 +0000"
     },
     "done": true
   },
@@ -3328,10 +3340,12 @@
       "minecraft:phantom": "2021-04-03 16:22:46 +0000",
       "minecraft:zombified_piglin": "2021-03-28 14:44:15 +0000",
       "minecraft:wither_skeleton": "2021-03-26 10:08:12 +0000",
+      "minecraft:ender_dragon": "2021-04-04 12:34:03 +0000",
       "minecraft:cave_spider": "2021-03-30 19:23:54 +0000",
       "minecraft:piglin": "2021-03-25 20:52:13 +0000",
       "minecraft:silverfish": "2021-03-22 17:54:38 +0000",
       "minecraft:stray": "2021-03-26 19:48:02 +0000",
+      "minecraft:enderman": "2021-04-04 12:29:02 +0000",
       "minecraft:vex": "2021-04-03 19:03:43 +0000",
       "minecraft:zombie": "2021-03-20 15:19:05 +0000",
       "minecraft:zombie_villager": "2021-03-21 21:11:41 +0000"
@@ -3569,6 +3583,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2021-03-28 15:05:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-04-04 12:22:13 +0000"
     },
     "done": true
   },
@@ -5394,6 +5414,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-03-21 16:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-04-04 12:22:13 +0000"
     },
     "done": true
   },

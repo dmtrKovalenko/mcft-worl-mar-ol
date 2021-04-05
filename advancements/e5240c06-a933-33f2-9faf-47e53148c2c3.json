@@ -1411,6 +1411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-04-04 12:22:14 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
     "criteria": {
       "has_iron_ingot": "2021-03-20 14:15:05 +0000"
@@ -2547,6 +2553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2021-04-04 12:22:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-03-20 16:02:24 +0000"
@@ -2580,6 +2592,12 @@
   "create:recipes/create.base/blasting/zinc_ingot_from_ore": {
     "criteria": {
       "has_item": "2021-03-21 21:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-04-04 12:22:14 +0000"
     },
     "done": true
   },
@@ -3311,6 +3329,7 @@
       "minecraft:pillager": "2021-03-24 19:03:30 +0000",
       "minecraft:blaze": "2021-03-28 14:46:24 +0000",
       "minecraft:skeleton": "2021-03-20 15:24:37 +0000",
+      "minecraft:ghast": "2021-04-04 11:56:27 +0000",
       "minecraft:hoglin": "2021-03-28 14:38:44 +0000",
       "minecraft:vindicator": "2021-04-03 18:54:01 +0000",
       "minecraft:magma_cube": "2021-03-28 14:48:19 +0000",
@@ -3558,6 +3577,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2021-03-28 14:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-04-04 12:22:09 +0000"
     },
     "done": true
   },
@@ -3834,6 +3859,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2021-03-20 14:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2021-04-04 12:26:15 +0000"
     },
     "done": true
   },
@@ -4892,9 +4923,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-04-04 12:22:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2021-03-28 15:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-04-04 12:22:14 +0000"
     },
     "done": true
   },
@@ -5369,6 +5412,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-03-25 09:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-04-04 12:22:09 +0000"
     },
     "done": true
   },
